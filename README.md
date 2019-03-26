@@ -1,6 +1,5 @@
 # HTML + CSS BASİT İLETİŞİM FORMU
 
-## Resim
 ![](https://raw.githubusercontent.com/delosemre/resimler/master/web/html_iletisim_form.PNG)
 
 
