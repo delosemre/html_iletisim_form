@@ -1,0 +1,76 @@
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+body {font-family: verdana;}
+
+
+
+label {
+display:block;
+margin-top:20px;
+letter-spacing:2px;
+}
+ 
+
+.iletisim-form {
+width:459px;
+padding:50px;
+display:block;
+margin:0 auto;
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffd65e', endColorstr='#febf04',GradientType=0 );
+}
+
+form {
+margin:0 auto;
+}
+
+input, textarea {
+width:439px;
+height:27px;
+background:#efefef;
+border:1px solid #dedede;
+padding:10px;
+margin-top:3px;
+font-size:0.9em;
+color:#3a3a3a;
+}
+input, textarea {
+width:439px;
+height:27px;
+background:#efefef;
+border:1px solid #dedede;
+padding:10px;
+margin-top:3px;
+font-size:0.9em;
+color:#3a3a3a;
+-moz-border-radius:5px;
+-webkit-border-radius:5px;
+border-radius:5px;
+}
+ 
+textarea {
+height:213px;
+ 
+background:url() right no-repeat #efefef;
+background-size: contain;
+}
+ 
+input:focus, textarea:focus {
+border:1px solid #97d6eb;
+}
+
+
+#gonder {
+width:127px;
+height:38px;
+background: #45484d;
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#45484d', endColorstr='#000000',GradientType=0 ); /* IE6-9 */
+color:#fff;
+border:none;
+margin-top:20px;
+cursor:pointer;
+}
+ 
+#gonder:hover {
+opacity:.9;
+}
